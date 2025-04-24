@@ -80,9 +80,7 @@ The PandaLoader Builder is a tool designed to help you create a custom payload l
 # Downloads
 [MinGW builds](https://github.com/brechtsanders/winlibs_mingw/releases)
 
-# Detections 0/26
-https://avcheck.net/id/dfYuFYeviJV8
-
+# Detections 
 > [!TIP]
 > Please avoid raising issues related to detections, as it is not productive. The goal of this project is to support teaching and learning.
 This project is fully undetectable (FUD) on its release day (August 2024). However, a free, publicly available, and open-source loader will not stay undetected for long. 
